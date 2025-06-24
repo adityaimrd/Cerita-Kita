@@ -1,1 +1,1 @@
-LINK DEPLOY = https://683bfd22466de316f063020d--effortless-malabi-b56153.netlify.app
+LINK DEPLOY = https://ceritakitaa.netlify.app/
